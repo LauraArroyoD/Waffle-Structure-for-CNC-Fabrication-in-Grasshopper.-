@@ -1,5 +1,3 @@
-<img width="1403" height="992" alt="Waffle to CNC" src="https://github.com/user-attachments/assets/4777fe2c-bab1-4950-9ff2-80e536e049f9" /><img width="1403" height="992" alt="Waffle to CNC" src="https://github.com/user-attachments/assets/4ff66e20-fd3d-4fdb-acdc-0319ed3ff63f" /># Waffle Structural System for CNC
-
 ![Waffle System Preview](https://github.com/user-attachments/assets/4777fe2c-bab1-4950-9ff2-80e536e049f9)
 
 *Caption: Parametric geometry and its corresponding bi-directional rib decomposition.*
